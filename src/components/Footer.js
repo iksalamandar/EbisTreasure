@@ -45,11 +45,11 @@ const Footer = () => {
           <div className="contact-info">
             <p className="contact-item">
               <span className="contact-label">Email:</span> 
-              info@ebistreasure.com
+              Ebistreasure@gmail.com
             </p>
             <p className="contact-item">
               <span className="contact-label">Phone:</span> 
-              (555) 123-TOYS
+              9962839396
             </p>
             <p className="contact-item">
               <span className="contact-label">Hours:</span> 
